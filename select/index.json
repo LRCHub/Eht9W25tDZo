@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Scatman (ski-ba-bop-ba-dop-bop)",
+  "base_artist": "Scatman John",
+  "createdAt": "2025-12-29T04:29:26.002776Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Scatman (Ski‐Ba‐Bop‐Ba‐Dop‐Bop)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/01_Scatman_(Ski‐Ba‐Bop‐Ba‐Dop‐Bop)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Scatman (Ski Ba Bop Ba Dop Bop)",
+      "artist": "Scatman",
+      "has_synced": true,
+      "path": "select/02_Scatman_(Ski_Ba_Bop_Ba_Dop_Bop)_Scatman.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/03_Scatman_(Ski-Ba-Bop-Ba-Dop-Bop)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/04_Scatman_(Ski-Ba-Bop-Ba-Dop-Bop)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/05_Scatman_(Ski-Ba-Bop-Ba-Dop-Bop)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Scatman (Ski‐Ba‐Bop‐Ba‐Dop‐Bop)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/06_Scatman_(Ski‐Ba‐Bop‐Ba‐Dop‐Bop)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/07_Scatman_(Ski-Ba-Bop-Ba-Dop-Bop)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Scatman (Ski‐Ba‐Bop‐Ba‐Dop‐Bop)",
+      "artist": "Scatman John",
+      "has_synced": false,
+      "path": "select/08_Scatman_(Ski‐Ba‐Bop‐Ba‐Dop‐Bop)_Scatman_John.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Scatman (Ski-ba-bop-ba-dop-bop)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/09_Scatman_(Ski-ba-bop-ba-dop-bop)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Scatman (Ski–Ba–Bop–Ba–Dop–Bop)",
+      "artist": "Scatman John",
+      "has_synced": false,
+      "path": "select/10_Scatman_(Ski–Ba–Bop–Ba–Dop–Bop)_Scatman_John.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/11_Scatman_(ski-ba-bop-ba-dop-bop)_Scatman_John.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Scatman (ski-ba-bop-ba-dop-bop)",
+      "artist": "Scatman John",
+      "has_synced": true,
+      "path": "select/12_Scatman_(ski-ba-bop-ba-dop-bop)_Scatman_John.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Scatman (Ski-Ba-Bop-Ba-Dop-Bop)",
+      "artist": "Scatman John",
+      "has_synced": false,
+      "path": "select/pl_01_Scatman_(Ski-Ba-Bop-Ba-Dop-Bop)_Scatman_John.txt"
+    }
+  ]
+}
